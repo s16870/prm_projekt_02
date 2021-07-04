@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dzieje się!</string>
+    <string name="events">Zdarzenia</string>
+    <string name="map">Mapa</string>
+    <string name="facebook_app_id">1222239031529934</string>
+    <string name="fb_login_protocol_scheme">fb1222239031529934</string>
+</resources>

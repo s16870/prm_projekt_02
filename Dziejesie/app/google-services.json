@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968419221027",
+    "project_id": "dzieje-sie-462ba",
+    "storage_bucket": "dzieje-sie-462ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968419221027:android:308e576376bd18af08db96",
+        "android_client_info": {
+          "package_name": "pl.edu.pjatk.dziejesie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968419221027-987vtuvi9di706cv2it9lh5taf3ml3so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8E_vQAUvf56xt8hXE8upHLooif3fUapA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968419221027-987vtuvi9di706cv2it9lh5taf3ml3so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
